@@ -27,6 +27,7 @@
 #import "PatternElement.h"
 #import "RadiationPattern.h"
 #import "StructureElement.h"
+#import "ApplicationDelegate.h"
 
 //	NEC4Context subclass of OutputContext class handles the format exceptions for NEC-4 (vs nec2c).
 
@@ -36,7 +37,7 @@
 {
 	int engine4 ;
 	
-	engine4 = [ [ NSApp delegate ] engine ] ;
+	engine4 = [ (ApplicationDelegate *) [ NSApp delegate ] engine ] ;
 	
 	self = [ super initWithName:str hollerith:hstr lpt:lstr source:[ self modifiedSourceName:src engine:engine4 ] exceptions:ex geometryOptions:options ] ;
 	if ( self ) {

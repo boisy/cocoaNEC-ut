@@ -29,7 +29,7 @@
 #import "RunInfo.h"
 #import "Spreadsheet.h"
 
-@interface ApplicationDelegate : NSObject <NSFileManagerDelegate> {
+@interface ApplicationDelegate : NSObject <NSApplicationDelegate, NSFileManagerDelegate> {
     
     IBOutlet id sharedGlobals ;
     IBOutlet id errorView ;
