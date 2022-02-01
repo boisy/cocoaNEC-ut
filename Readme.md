@@ -7,8 +7,7 @@ You can download the latest release [here](https://github.com/ulthiel/cocoaNEC-u
 If you have any questions/comments/suggestions, just drop me an [email](mailto:mail@ulthiel.com).
 
 73,  
-Ulrich, DK1UT
-Boisy,  KF5HEL
+Ulrich (DK1UT) & Boisy (KF5HEL)
 
 ## Changes
 
