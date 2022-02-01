@@ -183,6 +183,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		687EA04727A9F85E0098AA50 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		84752C141CF37BA20089D3F7 /* cocoaNEC 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cocoaNEC 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84752C1D1CF37BA20089D3F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84752C2A1CF37DDD0089D3F7 /* nec2cInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nec2cInterface.h; sourceTree = "<group>"; };
@@ -550,6 +551,7 @@
 		84752C0B1CF37BA20089D3F7 = {
 			isa = PBXGroup;
 			children = (
+				687EA04727A9F85E0098AA50 /* README.md */,
 				84752C161CF37BA20089D3F7 /* cocoaNEC 2.0 */,
 				84752E521CF386A30089D3F7 /* Frameworks */,
 				84752C151CF37BA20089D3F7 /* Products */,

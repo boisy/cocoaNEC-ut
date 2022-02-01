@@ -8,6 +8,7 @@ If you have any questions/comments/suggestions, just drop me an [email](mailto:m
 
 73,  
 Ulrich, DK1UT
+Boisy,  KF5HEL
 
 ## Changes
 
